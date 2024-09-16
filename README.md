@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dagim Mesfin</h1>
-<h3 align="center">A Passionate Flutter Developer and Tech Enthusiast</h3>
+<h3 align="center">A Passionate Flutter Developer and Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagmmesfin&label=Profile%20views&color=0e75b6&style=flat" alt="dagmmesfin" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dagmmesfin.github.io/CODSOFT-Portfolio/](https://dagmmesfin.github.io/CODSOFT-Portfolio/)
 
-- 💬 Ask me about **Flutter, Firebase**
+- 💬 Ask me about **Flutter, Firebase, Go**
 
 - 📫 How to reach me **dagmmesfin99@gmail.com**
 
